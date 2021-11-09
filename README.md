@@ -1,8 +1,8 @@
 # Estatística e Probabilidade
-Repositório das analises feitas durante a disciplina de Estatística e Probabilidade, disciplina ministrada por [Gislaine Cristina Batistela](https://www.linkedin.com/in/gislaine-cristina-batistela-785403176)
+Repositório das analises feitas durante a disciplina de Estatística e Probabilidade, disciplina ministrada por [Gislaine Cristina Batistela](https://www.linkedin.com/in/gislaine-cristina-batistela-785403176).
 
 ## Aulas
-- 01 Tabelas de frequência - [notebook →](https://colab.research.google.com/github/douglascdsantos/unesp_estatistica_e_probabilidade/blob/main/aula01/tabela%20de%20frequencia.ipynb)
+- 01 Tabelas de frequência - [notebook do colab →](https://colab.research.google.com/github/douglascdsantos/unesp_estatistica_e_probabilidade/blob/main/aula01/tabela%20de%20frequencia.ipynb)
 
 <h3 align="left">Alguma dúvida ou sugestão, pode me encontrar:</h3>
 <p align="left">
