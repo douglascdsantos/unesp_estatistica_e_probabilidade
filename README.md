@@ -3,8 +3,14 @@ Repositório das analises feitas durante a disciplina de Estatística e Probabil
 
 ## Aulas
 ### 01 Tabelas de frequência
-- [notas de aula →](https://github.com/douglascdsantos/unesp_estatistica_e_probabilidade/blob/main/aula01/tabela%20de%20frequencia.ipynb)
-- [exercícios →](https://github.com/douglascdsantos/unesp_estatistica_e_probabilidade/blob/main/aula01/lista_de_exerc%C3%ADcios_01.ipynb)
+- [Notas de aula →](https://github.com/douglascdsantos/unesp_estatistica_e_probabilidade/blob/main/aula01/tabela%20de%20frequencia.ipynb)
+
+### 02 Medidas de posição, medidas de dispersão e Boxplot
+- [Notas de aula →](https://github.com/douglascdsantos/unesp_estatistica_e_probabilidade/blob/main/Aula%2002/notas%20de%20aula%2002_.ipynb)
+
+## Listas de exercícios:
+- [Aula 01 e 02 →](https://github.com/douglascdsantos/unesp_estatistica_e_probabilidade/blob/main/aula01/lista_de_exerc%C3%ADcios_01.ipynb)
+
 
 ## Contatos e redes sociais: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglascdsantos/)
